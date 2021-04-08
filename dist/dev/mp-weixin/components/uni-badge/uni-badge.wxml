@@ -1,0 +1,1 @@
+<view class="data-v-26a60cd2"><uni-badge vue-id="a3c7e318-1" text="1" class="data-v-26a60cd2" bind:__l="__l"></uni-badge><uni-badge vue-id="a3c7e318-2" text="2" type="purple" class="data-v-26a60cd2" bind:__l="__l"></uni-badge><uni-badge vue-id="a3c7e318-3" text="3" type="primary" class="data-v-26a60cd2" bind:__l="__l"></uni-badge></view>
